@@ -2,7 +2,7 @@
 This app is about the task that was assigned me by esmagico as part of the hiring process.
 
 # Deployment
-[FrontEnd Deployed Link](https://travelopia-rust.vercel.app/)
+[FrontEnd Deployed Link](https://esmagico-plum.vercel.app/)
 
 # TechStack
 
