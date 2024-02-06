@@ -1,0 +1,27 @@
+.herofour{
+    text-align: center;
+    background-color: #F8F9FA;
+}
+.herofourcontainer{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    justify-content: space-evenly;
+    margin-top: 61px;
+}
+.herofourright{
+    display: flex;
+    text-align: justify;
+    align-items: center;
+}
+.herofourcontainer{
+    margin-top: 50px;
+}
+.herofourhead{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-self: center;
+    padding-top: 61px;
+    box-sizing: border-box;
+}

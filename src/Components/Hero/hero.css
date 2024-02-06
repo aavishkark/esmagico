@@ -1,0 +1,53 @@
+.herocontainer{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    justify-content: space-around;
+    height: 582px;
+    padding-left:80px;
+    padding-top:80px;
+    padding-bottom: 18px;
+    padding-right: 42px;
+    box-sizing: border-box;
+}
+.heroleft{
+    width: 693px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-evenly;
+}
+.heroleft1{
+   width: 100%; 
+   font-size: 59px;
+   font-weight: bold;
+}
+.heroleft2{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 543px;
+    gap: 30px;
+}
+.heroleft21{
+    display: flex;
+    width: 226px;
+    height: 60px;
+    margin: auto;
+    justify-content: flex-start;
+}
+.leftimg{
+   width: 60px;
+   height: 60px;
+   padding: 10px;
+   box-sizing: border-box;
+}
+.herobtn{
+    height: 56px;
+    width: 168px;
+    padding: 19.5px 8px;
+    background-color: #8800EC;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    border-radius: 4px;
+}

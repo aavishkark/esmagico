@@ -1,0 +1,22 @@
+.herofivetop{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.herofivecontainer{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    justify-content: space-evenly;
+    height: 566px;
+    align-items: center;
+    margin-top: 50px;
+    box-sizing: border-box;
+}
+.herofive{
+    height:790px
+}
+.herofivecontainerleft>div{
+   margin-bottom: 50px;
+}

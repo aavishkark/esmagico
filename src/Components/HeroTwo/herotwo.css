@@ -1,0 +1,61 @@
+.subcontainerherotwo{
+   display: flex;
+   width: 100%;
+   justify-content: space-evenly;
+   margin: auto;
+}
+.containerherotwo{
+    margin-left: 37px;
+    margin-top: 70px;
+}
+.heading{
+    display: flex;
+    width: 558px;
+    font-size: 44px;
+    font-weight: 600;
+    margin-left: 80px;
+    align-items: center;
+}
+.subcontainerherotworight{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.headstar{
+    width: 50px;
+    height: 50px;
+}
+/* .herotwoimg{
+    
+} */
+.subcontainerherotworight{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 765px;
+    height: 470px;
+    padding-left: 55px;
+    background-color: #FCF8FF;
+}
+.intrestright{
+    display: flex;
+    width: 653px;
+    height: 70px;
+}
+.intrestright>img{
+    display: flex;
+    width: 24px;
+    height: 24px;
+}
+.subcontainerherotwoleft{
+    width: 514px;
+    height: 544px;
+    margin-top: 119px;
+}
+.intrestrightparent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 36px;
+    height: 653px;
+}

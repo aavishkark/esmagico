@@ -1,0 +1,27 @@
+.herothree{
+    display: flex;
+    margin: auto;
+    width: 100%;
+}
+.heroleft{
+    display: flex;
+    margin: auto;
+    width: 690px;
+    height: 574.71px;
+    
+}
+.herothreeright1{
+    display: flex;
+    width: 564px;
+    margin-bottom: 50px;
+}
+.herothreeright2{
+    margin-bottom: 50px;
+}
+.heroright{
+    margin: auto;
+    width: 100%;
+    align-items: center;
+    height: 235px;
+    justify-content: flex-start;
+}

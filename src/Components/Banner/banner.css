@@ -1,0 +1,30 @@
+.bannercontainer{
+    display: flex;
+    margin:"auto";
+    justify-content: space-evenly;
+    background-color: #F8F9FA;
+}
+.bannerright{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-content: flex-end;
+    width: 950px;
+    padding-top: 72px;
+    padding-bottom: 72px;
+    margin-right: 80px;
+}
+.bannerright>div{
+    display: flex;
+    flex-direction: column;
+}
+.bannerleft{
+    margin-left: 80px;
+    width: 302px;
+    align-self: center;
+    display: flex;
+    font-size: 38px;
+    font-weight: 500;
+    padding-top: 96px;
+    padding-bottom: 96px;
+}

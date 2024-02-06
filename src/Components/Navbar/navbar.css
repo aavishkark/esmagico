@@ -1,0 +1,34 @@
+.container{
+   display: flex;
+   width: 1376px;
+   margin: auto;
+   justify-content: space-between;
+   padding: 24px 32px;
+}
+.left{
+    display: flex;
+    width: 331px;
+    justify-content: space-around;
+}
+.right{
+    display: flex;
+    width: 497px;
+    justify-content: space-between;
+}
+.right1{
+  display: flex;
+  width: 258px;
+}
+input{
+    width: 100%;
+}
+.right2{
+    width: 239px;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+}
+button{
+    border: none;
+    background: #ffffff;
+}
