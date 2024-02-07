@@ -1,0 +1,35 @@
+.footercontainer{
+    width: 1280px;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.footerright{
+    display: flex;
+    width: 523px;
+    height: 136px;
+    justify-content: space-between;
+}
+.footerright>div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.footerleft{
+    width: 160px;
+    height: 136px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 236px;
+    display: flex;
+    margin-top: 50px;
+    width: 1520px;
+    margin: auto;
+}

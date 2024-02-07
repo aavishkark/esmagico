@@ -3,9 +3,9 @@ import './herofour.css'
 const HeroFour = () => {
   return (
     <div className='herofour'>
-        <div className='herofourhead'>
+        <div className='herofourhead' style={{paddigTop:"61px"}}>
         <img src='./hands.png' alt='hands'/><div style={{width: "501px",
-    height:"61px",fontSize:"38px"}}>What Our Coustomer Says</div></div>
+    height:"61px",fontSize:"38px"}}>What Our Customer Says</div></div>
         <div className='herofourcontainer'>
             <div className='herofourleft'>
                 <img alt='herofour' src='./herofour.png'/>

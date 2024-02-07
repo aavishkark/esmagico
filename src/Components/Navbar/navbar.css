@@ -32,3 +32,16 @@ button{
     border: none;
     background: #ffffff;
 }
+input[type="text"]{
+    background-color: #E2E2E2;
+    color: black;
+}
+@media screen and (min-width: 1400px) {
+    .container{
+        display: flex;
+        width: 100%;
+        margin: auto;
+        justify-content: space-between;
+        padding: 24px 32px;
+     }
+}

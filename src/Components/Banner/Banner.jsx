@@ -5,7 +5,7 @@ const Banner = () => {
     <div className='bannercontainer'>
         <div className='bannerleft'>Our Partners</div>
         <div className='bannerright'>
-            <div>
+            <div style={{marginTop:"15px"}}>
             <img src='./hdfc.png' alt='hdfc'/>
             <span style={{fontSize:"24px",fontWeight:"500"}}>HDFC Bank</span>
             </div>
@@ -17,7 +17,7 @@ const Banner = () => {
             <img src='./icici.png' alt='icici'/>
             <span style={{fontSize:"24px",fontWeight:"500"}}>ICICI Bank</span>
             </div>
-            <div>
+            <div style={{marginTop:"15px"}}>
             <img src='./bob.png' alt='bob'/>
             <span style={{fontSize:"24px",fontWeight:"500"}}>Bank of Baroda</span>
             </div>

@@ -1,0 +1,43 @@
+.faqhead{
+    display: flex;
+    margin-left: 110px;
+    margin-bottom: 50px;
+}
+.questions>div{
+    width: 1280px;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+.faqcontainer{
+    height: 490px;
+}
+.faqbottom{
+    width: 1280px;
+    height: 174px;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #FCF8FF;
+    align-items: center;
+    padding: 40px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+.faqbtn{
+    display: flex;
+    justify-content: center;
+   width: 216px;
+   height: 56px;
+   background-color: blueviolet;
+   border-radius:4px
+}
+.faqbtn>button{
+    background-color: blueviolet;
+    color: white;
+    font-size: 18px;
+}

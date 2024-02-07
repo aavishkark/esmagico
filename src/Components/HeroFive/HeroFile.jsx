@@ -5,10 +5,10 @@ const HeroFile = () => {
     <div className='herofive'>
         <div style={{marginTop:"94px"}}>
         <div className='herofivetop'>
-            <div><img src='./eleg.png' alt='elegebility'/>Eligibility</div>
-            <div><img src='./apply.png' alt='apply'/>How to apply</div>
-            <div><img src='./doc.png' alt='doc'/>Documentation</div>
-            <div><img src='./charge.png' alt='charges'/>Fees & Charges</div>
+            <div style={{display:"flex"}}><img src='./eleg.png' alt='elegebility'/><div style={{margin:"5px"}}>Eligibility</div></div>
+            <div style={{display:"flex"}}><img src='./apply.png' alt='apply'/><div style={{margin:"5px"}}>How to apply</div></div>
+            <div style={{display:"flex"}}><img src='./doc.png' alt='doc'/><div style={{margin:"5px"}}>Documentation</div></div>
+            <div style={{display:"flex"}}><img src='./charge.png' alt='charges'/><div style={{margin:"5px"}}>Fees & Charges</div></div>
         </div>
         <div className='herofivecontainer'>
             <div className='herofivecontainerleft'>

@@ -1,6 +1,6 @@
 .subcontainerherotwo{
    display: flex;
-   width: 100%;
+   width: 1280px;
    justify-content: space-evenly;
    margin: auto;
 }
@@ -24,6 +24,7 @@
 .headstar{
     width: 50px;
     height: 50px;
+    margin-right: 10px;
 }
 /* .herotwoimg{
     
@@ -46,6 +47,7 @@
     display: flex;
     width: 24px;
     height: 24px;
+    margin-top: 5px;
 }
 .subcontainerherotwoleft{
     width: 514px;
@@ -59,3 +61,8 @@
     gap: 36px;
     height: 653px;
 }
+/* @media screen and (max-width: 1250px) {
+    .subcontainerherotwoleft{
+     display: none;
+    }
+ } */

@@ -10,7 +10,7 @@ const Hero = () => {
             </div>
             <div className='heroleft2'>
                 <div className='heroleft21'>
-                <img src='./Vector.png' alt="avail zero" className='leftimg'/>
+                <img src='./avail.png' alt="avail zero" className='leftimg'/>
                 <div>
                     <span>Avail Zero</span><br/><span>Processing Fee</span>
                 </div>
@@ -35,10 +35,10 @@ const Hero = () => {
                 </div>
             </div>
             <div className='heroleft3'>
-                <button className='herobtn'>Apply Now</button>
+                <button className='herobtn' style={{borderRadius:"4px"}}>Apply Now</button>
             </div>
         </div>
-        <div>
+        <div className='father'>
             <img src='./father.png' alt='hero1'/>
         </div>
     </div>

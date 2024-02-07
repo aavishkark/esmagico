@@ -1,12 +1,12 @@
 .herofivetop{
-    width: 100%;
+    width: 1440px;
     margin: auto;
     display: flex;
     justify-content: space-evenly;
 }
 .herofivecontainer{
     display: flex;
-    width: 100%;
+     width: 1440px;
     margin: auto;
     justify-content: space-evenly;
     height: 566px;

@@ -8,9 +8,9 @@ const HeroTwo = () => {
         <div className='subcontainerherotwoleft'>
             <img src='./herotwo.png' alt='herotwo' className='herotwoimg'/>
         </div>
-        <div className='subcontainerherotworight'>
+        <div className='subcontainerherotworight' style={{borderRadius:"20px"}}>
             <div className='intrestrightparent'>
-            <div className='intrestright'>
+            <div className='intrestright' >
                         <img src='star.png' alt='star1' className='' style={{padding:"5px"}}/>
                         <div>
                         <span style={{fontWeight:"bold",width:"476px",fontSize:"28px"}}>Intrest Rate</span>
