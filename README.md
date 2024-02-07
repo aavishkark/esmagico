@@ -1,4 +1,4 @@
-# Travelopia Coding Task
+# Esmagico Coding Task
 This app is about the task that was assigned me by esmagico as part of the hiring process.
 
 # Deployment
